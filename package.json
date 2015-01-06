@@ -2,7 +2,7 @@
 	"name": "FFF",
 	"version": "0.0.1",
   "author": { "name": "https://github.com/rayie" },
-	"main": "fff.js",
+	"main": "FFF.js",
   "license": "MIT",
   "keywords": [
     "mongodb",
