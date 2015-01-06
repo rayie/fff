@@ -1,0 +1,16 @@
+{
+	"name": "FFF",
+	"version": "0.0.1",
+  "author": { "name": "https://github.com/rayie" },
+	"main": "fff.js",
+  "license": "MIT",
+  "keywords": [
+    "mongodb",
+    "mongoskin"
+  ],
+  "repository": "rayie/fff",
+  "description": "a node convenience wrapper for basic local and remote file ops using jsftp and scp"
+	"dependencies": {
+		"jsftp": "1.3.8"
+	}
+}
