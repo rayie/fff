@@ -9,7 +9,7 @@
     "mongoskin"
   ],
   "repository": "rayie/fff",
-  "description": "a node convenience wrapper for basic local and remote file ops using jsftp and scp"
+  "description": "a node convenience wrapper for basic local and remote file ops using jsftp and scp",
 	"dependencies": {
 		"jsftp": "1.3.8"
 	}
